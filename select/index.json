@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "RE RESCUE",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-18T01:05:00.128370Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RE RESCUE",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/01_RE_RESCUE_Reol.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RE RESCUE",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_RE_RESCUE_Reol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RE RESCUE -aoex edit-",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/03_RE_RESCUE_-aoex_edit-_Reol.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RE RESCUE",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/04_RE_RESCUE_Reol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RE RESCUE",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_RE_RESCUE_Reol.txt"
+    }
+  ]
+}
